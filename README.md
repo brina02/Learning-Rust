@@ -1,2 +1,3 @@
 # Learning-Rust
-A repo for all of my rust learnings.
+Understanding the basics (checked if completed):
+Tour of Rust: https://tourofrust.com/
